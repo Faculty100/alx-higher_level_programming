@@ -1,5 +1,3 @@
-es (14 sloc)  499 Bytes
-
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
     '''
